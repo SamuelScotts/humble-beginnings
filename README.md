@@ -1,24 +1,7 @@
-# simpler
+# Humble Beginnings...
 
-## Project setup
-```
-npm install
-```
+Initial commit of the beginnings of project.  Basic template built using:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://weichie.com/blog/setting-up-vue-projects-with-vue-cli-vuex-routing-and-firebase/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Great tutorial - well structured and laid out.  Helped create a good initial structure for the coming project.
